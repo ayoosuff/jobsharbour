@@ -299,7 +299,7 @@ export default {
 			],
 			searchClient: algoliasearch(
 				"407J7AB5PW",
-				"a92cd926b1efb71384fef2ca631757bd"
+				"ed56bf6541bd1a8e7d874bfd24235709"
 			)
 		};
 	},
