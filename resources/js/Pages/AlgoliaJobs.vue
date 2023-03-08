@@ -298,8 +298,8 @@ export default {
 				}
 			],
 			searchClient: algoliasearch(
-				"8G0ZANR2KG",
-				"e571c9fdb5e10a920ed1dbcc05434e34"
+				"407J7AB5PW",
+				"a92cd926b1efb71384fef2ca631757bd"
 			)
 		};
 	},
